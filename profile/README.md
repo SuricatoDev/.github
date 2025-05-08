@@ -2,7 +2,7 @@
 
 A **SuricatoDev** é uma equipe formada por cinco alunos da **Fatec Sorocaba** com o objetivo de desenvolver o projeto de conclusão do curso, que será realizado de **janeiro a junho de 2025**. O grupo visa aplicar suas competências técnicas e de gestão para criar soluções inovadoras e de alta qualidade.
 
-## Integrantes e competências
+## :computer: Integrantes e competências
 
 ### Alexandre Arantes
 - **Competências**: Power Platform, Typescript, Python, Figma, SQL
@@ -24,10 +24,12 @@ A **SuricatoDev** é uma equipe formada por cinco alunos da **Fatec Sorocaba** c
 - **Competências**: Typescript, Next.js, React, Storybook, AWS
 - **Descrição**: Paulo é focado no desenvolvimento frontend, com forte domínio de tecnologias modernas como React e Next.js, além de atuar com ferramentas de design como o Storybook e soluções de nuvem com AWS.
 
-## Conecte-se com o time!
+## :iphone: Conecte-se com o time!
 
-Alexandre: [![LinkedIn Alexandre](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-a-b008121b2/)
-Fernanda: [![LinkedIn Fernanda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-szabadi/)
-Filipe: [![LinkedIn Filipe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lamego-93257b32/)
-Kaike: [![LinkedIn Kaike](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikemiranda/)
-Paulo: [![LinkedIn Paulo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-geliandes/)
+| Integrante          | LinkedIn                                                                                                                                                             |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Alexandre Arantes**| [![LinkedIn Alexandre](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-a-b008121b2/) |
+| **Fernanda Szabadi** | [![LinkedIn Fernanda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-szabadi/)   |
+| **Filipe Lamego**    | [![LinkedIn Filipe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lamego-93257b32/) |
+| **Kaike Fonseca**    | [![LinkedIn Kaike](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikemiranda/)         |
+| **Paulo Geliandes**  | [![LinkedIn Paulo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-geliandes/)      |
