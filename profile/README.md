@@ -26,12 +26,8 @@ A **SuricatoDev** é uma equipe formada por cinco alunos da **Fatec Sorocaba** c
 
 ## Conecte-se com o time!
 
-[![LinkedIn Alexandre](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-a-b008121b2/)
-
-[![LinkedIn Fernanda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-szabadi/)
-
-[![LinkedIn Filipe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lamego-93257b32/)
-
-[![LinkedIn Kaike](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikemiranda/)
-
-[![LinkedIn Paulo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-geliandes/)
+Alexandre: [![LinkedIn Alexandre](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-a-b008121b2/)
+Fernanda: [![LinkedIn Fernanda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-szabadi/)
+Filipe: [![LinkedIn Filipe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-lamego-93257b32/)
+Kaike: [![LinkedIn Kaike](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikemiranda/)
+Paulo: [![LinkedIn Paulo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-geliandes/)
